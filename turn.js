@@ -1,5 +1,7 @@
 (function ($) {
 
+console.log("branch newBranch")
+
     var TurnObj = function () {
         //默认配置
         this.defaultOpts = {
